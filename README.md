@@ -1,4 +1,4 @@
 # hello-world
 First repository for testing purposes.
 
-- Legger til litt tekst her... Tommy er kul!
+- Legger til litt tekst her... Tommy er kul! Adrian er kul
